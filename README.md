@@ -32,8 +32,8 @@
 <br/>
 
 
-### *TOOLS* 
-[<img align="left" alt="Visual Studio Code" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" width="26px" />](https://code.visualstudio.com/) &nbsp; 
+### *TOOLS*
+&nbsp; [<img align="left" alt="Visual Studio Code" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" width="26px" />](https://code.visualstudio.com/) &nbsp; 
 [<img alt="GitHub" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="26px" />](https://code.visualstudio.com/)
 
 

@@ -7,6 +7,8 @@
 ## This repository include both Jupyter notebook and Python file of this program.
 
 <br>
+<hr>
+<br/>
 
 ### JUPYTER NOTEBOOK
 - Calculates distance
@@ -15,5 +17,8 @@
 ### PYTHON 
 - Calculates distance
 
+<br>
+<hr>
+<br/>
 
 [![](https://img.shields.io/badge/GitHub-InvisiblePro-blue?logo=github)](https://github.com/InvisiblePro)

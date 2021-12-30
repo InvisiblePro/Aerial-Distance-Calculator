@@ -1,4 +1,5 @@
-# Aerial_Distance_Calc    &nbsp;    [![](https://img.shields.io/badge/Language-Python-blue?logo=python&style=flat)](https://www.python.org/) [![](https://img.shields.io/badge/Language-Jupyter-orange?logo=jupyter&style=flat)](https://jupyter.org/)
+
+# Aerial_Distance_Calc
 ### ***This program can calculate the Aerial Distance between two cities.***
 
 <br>
@@ -28,6 +29,15 @@
     > GEOPY - `pip install geopy`
 
 <br/>
+
+### *LANGUAGES*
+- #### **Python** 
+    [![](https://img.shields.io/badge/Language-Python-blue?logo=python&style=flat)](https://www.python.org/)
+- #### **Jupyter notebook**
+    [![](https://img.shields.io/badge/Language-Jupyter-orange?logo=jupyter&style=flat)](https://jupyter.org/)
+
+<br>
 <hr>
+<br>
 
 [![](https://img.shields.io/badge/GitHub-InvisiblePro-blue?logo=github&style=flat)](https://github.com/InvisiblePro)

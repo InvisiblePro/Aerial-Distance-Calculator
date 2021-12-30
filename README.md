@@ -33,7 +33,7 @@
 
 
 ### *TOOLS* 
-[<img align="left" alt="Visual Studio Code" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" width="26px" />](https://code.visualstudio.com/) &nbsp; 
+[<img alt="Visual Studio Code" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" width="26px" />](https://code.visualstudio.com/) &nbsp; 
 [<img alt="GitHub" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="26px" />](https://code.visualstudio.com/) &nbsp; 
 [<img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" width="26px" />](https://www.python.org/) &nbsp;                                          [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" width="26px"/>](https://jupyter.org/)
 

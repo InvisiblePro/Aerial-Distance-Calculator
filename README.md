@@ -1,5 +1,5 @@
 
-# Aerial_Distance_Calculator   &nbsp;  [![](https://img.shields.io/badge/Language-Python-blue?logo=python&style=flat)](https://www.python.org/)    [![](https://img.shields.io/badge/Language-Jupyter-orange?logo=jupyter&style=flat)](https://jupyter.org/)
+# Aerial_Distance_Calculator   &nbsp;  [![](https://img.shields.io/badge/Language-Python-blue?logo=python&style=for-the-badge)](https://www.python.org/)    [![](https://img.shields.io/badge/Language-Jupyter-orange?logo=jupyter&style=for-the-badge)](https://jupyter.org/)
 
 ### ***This program can calculate the Aerial Distance between two cities.***
 
@@ -36,4 +36,4 @@
 <hr>
 <br>
 
-[![](https://img.shields.io/badge/GitHub-InvisiblePro-blue?logo=github&style=flat)](https://github.com/InvisiblePro)
+[<img src="https://img.shields.io/badge/GitHub-InvisiblePro-blue?logo=github&style=for-the-badge" alt="InvisiblePro">](https://github.com/InvisiblePro)
